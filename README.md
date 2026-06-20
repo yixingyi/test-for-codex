@@ -6,6 +6,7 @@
 
 - [鸢尾花分类：逻辑回归](iris_classification.ipynb)
 - [乳腺肿瘤数据分类：支持向量机](svm-breast-cancer-project/README.md)
+- [葡萄酒多分类：XGBoost](xgboost-wine-project/README.md)
 
 ## 鸢尾花分类项目
 
